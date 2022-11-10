@@ -15,6 +15,8 @@ I am currently a Computer Science PhD student in the Larremore Lab at the Univer
 
 I'm originally from Seattle, WA. When I'm not working, I love to play volleyball, try new recipes and paint. 
 
+Please note that my website is still under revision!
+
 Education
 ------
 PhD in Computer Science, University of Colorado Boulder, present. 
