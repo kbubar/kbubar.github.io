@@ -19,7 +19,7 @@ Please note that my website is still under revision!
 
 Education
 ------
-PhD in Computer Science, University of Colorado Boulder, present. 
-Certificate in Interdisciplinary Quantitative Biology, University of Colorado Boulder, present. 
-Master's in Applied Math, University of Colorado Boulder, 2022. 
-B.S. Applied Math and Statistics, Colorado School of Mines, 2019
+PhD in Computer Science, University of Colorado Boulder (in progress) \
+Certificate in Interdisciplinary Quantitative Biology, University of Colorado Boulder (in progress) \
+Master's in Applied Math, University of Colorado Boulder (2022) \
+B.S. Applied Math and Statistics, Colorado School of Mines (2019)
