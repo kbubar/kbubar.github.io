@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+classes: splash
+header:
+    overlay_image: https://kbubar.github.io/images/CU_fall.jpeg
 ---
 
 Please note that my website is currently under revision.
