@@ -15,7 +15,7 @@ header:
 
 About Me
 ------
-Hi! I'm Kate. I'm a postdoctoral scholar in the Division of Infectious Diseases and Geographic Medicine at Stanford University in the Lo Lab. With a background in mathematics, statistics, and infectious disease epidemiology, I am passionate about using data-driven mathematical models to study infectious disease transmission and the impact of public health interventions. My research aims to reduce disease burden and inform public health policy.
+Hi! I'm Kate. I'm a postdoctoral scholar in the Division of Infectious Diseases and Geographic Medicine at Stanford University in the Lo Lab. I am passionate about using data-driven mathematical models to study infectious disease dynamics and interventions in order to reduce disease burden and inform effective public health policy.
 
 I earned my PhD in Computer Science from the University of Colorado Boulder, where I worked with Dan Larremore and was part of the Interdisciplinary Quantitative Biology program at CU's BioFrontiers Institute. I also hold a Master's in Applied Math from CU Boulder and a Bachelor's of Science in Applied Math and Statistics from the Colorado School of Mines.
 
