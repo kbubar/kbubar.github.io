@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Kate Bubar"
+name                     : &name "Kate Bubar, PhD"
 description              : &description "personal description"
 url                      : https://kbubar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Kate Bubar"
-  avatar           : "headshot.jpeg"
-  bio              : "PhD student in Computer Science at CU Boulder"
-  location         : "Boulder, CO"
+  avatar           : "headshot.jpg"
+  bio              : "Postdoc in Infectious Diseases at Stanford University"
+  location         : "Palo Alto, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Kj2zcu0AAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@bubar_kate"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
