@@ -44,3 +44,9 @@
 .author__avatar img {
   border-radius: 5px !important;
 }
+
+/* Make banner taller */
+.page__hero--overlay {
+  padding: 10em 0 !important;  /* Adjust first value for height */
+  min-height: 400px !important;  /* Adjust as needed */
+}
