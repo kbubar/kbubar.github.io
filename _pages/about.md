@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 classes: splash
 header:
-    overlay_image: https://kbubar.github.io/images/CU_fall.jpeg
+    overlay_image: https://kbubar.github.io/images/3A3E18C5-B2B7-4DB7-AFFC-9D919AAE20CD_1_102_o.jpeg
     show_overlay_excerpt: false
 ---
 
