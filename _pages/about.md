@@ -2,9 +2,6 @@
 title: ""
 permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 classes: splash
 header:
     overlay_image: https://kbubar.github.io/images/3A3E18C5-B2B7-4DB7-AFFC-9D919AAE20CD_1_102_o.jpeg
