@@ -61,8 +61,20 @@
   display: none !important;
 }
 
-/* Translucent background behind navigation */
+/* Ensure site title appears on left side */
+.site-title {
+  display: inline-block !important;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-right: auto;
+}
+
+.masthead__inner-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .greedy-nav {
-  background: rgba(255, 255, 255, 0.9) !important;  /* White with 90% opacity */
-  backdrop-filter: blur(5px);  /* Adds blur effect */
+  flex-grow: 0;
 }
