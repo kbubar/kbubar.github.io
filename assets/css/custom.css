@@ -1,0 +1,10 @@
+/* Right-align navigation menu */
+.greedy-nav .visible-links {
+  justify-content: flex-end;
+  margin-left: auto;
+}
+
+.greedy-nav__toggle {
+  margin-left: 0;
+  margin-right: auto;
+}
