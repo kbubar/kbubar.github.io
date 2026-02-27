@@ -39,3 +39,8 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Square with slightly rounded corners */
+.author__avatar img {
+  border-radius: 5px !important;
+}
