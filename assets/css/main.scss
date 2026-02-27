@@ -60,3 +60,9 @@
 .page__hero--overlay .page__lead {
   display: none !important;
 }
+
+/* Translucent background behind navigation */
+.greedy-nav {
+  background: rgba(255, 255, 255, 0.9) !important;  /* White with 90% opacity */
+  backdrop-filter: blur(5px);  /* Adds blur effect */
+}
