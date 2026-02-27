@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-masthead_title           : "Home"
+masthead_title           : "Test"
 name                     : &name "Kate Bubar, PhD"
 description              : &description "personal description"
 url                      : https://kbubar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
