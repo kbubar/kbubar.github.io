@@ -40,9 +40,10 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Square with slightly rounded corners */
+/* Make author profile image square and remove border */
 .author__avatar img {
-  border-radius: 5px !important;
+  border-radius: 0 !important;
+  border: none !important;
 }
 
 /* Make banner taller */
