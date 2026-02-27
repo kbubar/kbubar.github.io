@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Kate Bubar, PhD"
 description              : &description "personal description"
