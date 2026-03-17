@@ -8,6 +8,7 @@ header:
     overlay_filter: 0
     show_overlay_excerpt: false
     excerpt: " "
+    position: bottom
 ---
 
 About Me
