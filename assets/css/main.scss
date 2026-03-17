@@ -70,16 +70,11 @@
 }
 
 .masthead__inner-wrap {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
 }
 
 .greedy-nav {
-  margin-left: auto;
-  order: 1;
-}
-
-.greedy-nav .visible-links {
-  margin-left: auto !important;
+  flex: 0 0 auto !important;
 }
