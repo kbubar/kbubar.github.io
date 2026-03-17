@@ -73,8 +73,15 @@
   display: flex !important;
   justify-content: space-between !important;
   align-items: center !important;
+  width: 100% !important;
 }
 
 .greedy-nav {
   flex: 0 0 auto !important;
+  margin-left: auto !important;
+}
+
+.greedy-nav .visible-links {
+  display: flex !important;
+  justify-content: flex-end !important;
 }
