@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://kbubar.github.io/images/mttam.jpeg
+    overlay_image: images/FF6E8E2D-D88C-4885-A39B-69CFA9DFA36E_1_105_c.jpeg
     overlay_filter: 0
     show_overlay_excerpt: false
     excerpt: " "
