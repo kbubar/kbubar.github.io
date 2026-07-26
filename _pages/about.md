@@ -4,11 +4,9 @@ permalink: /
 author_profile: true
 classes: splash
 header:
-  overlay_image: https://kbubar.github.io/images/IMG_8613.jpeg
+  overlay_image: IMG_8613.jpeg
   overlay_filter: 0
   show_overlay_excerpt: false
-  excerpt: " "
-  position: bottom
 ---
 
 About Me
