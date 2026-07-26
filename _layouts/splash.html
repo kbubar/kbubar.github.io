@@ -4,10 +4,10 @@ layout: default
 
 {% include base_path %}
 
-{% assign show_hero = page.header.overlay_color or page.header.overlay_image or page.header.image %}
-{% assign hero_at_bottom = page.header.position == "bottom" or page.header.position == "after" or page.header.position == "after_content" %}
-{% if show_hero and hero_at_bottom != true %}
-  {% include page__hero.html %}
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% unless page.header.position == "bottom" or page.header.position == "after" or page.header.position == "after_content" %}
+    {% include page__hero.html %}
+  {% endunless %}
 {% endif %}
 
 <div id="main" role="main">
@@ -23,6 +23,8 @@ layout: default
   </article>
 </div>
 
-{% if show_hero and hero_at_bottom %}
-  {% include page__hero.html %}
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% if page.header.position == "bottom" or page.header.position == "after" or page.header.position == "after_content" %}
+    {% include page__hero.html %}
+  {% endif %}
 {% endif %}
