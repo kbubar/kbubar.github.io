@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kate Bubar"
+title                    : "Kate Bubar, PhD"
 title_separator          : "-"
 name                     : &name "Kate Bubar, PhD"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kate Bubar"
   avatar           : "headshot.jpg"
-  bio              : "Postdoc in Infectious Diseases at Stanford University"
+  bio              : 
   location         : "Palo Alto, CA"
   employer         :
   pubmed           : 
